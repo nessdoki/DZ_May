@@ -1,7 +1,7 @@
 # DZ_May
 
-# HomeWork Seminar3
+## HomeWork Seminar3
 
-## Instraction of local repositories
+### Instraction of local repositories
 
-## Instraction of remote repositories
+### Instraction of remote repositories
